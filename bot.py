@@ -3,7 +3,7 @@ import parse
 
 parse.auth()
 
-bot = telebot.TeleBot('1529950390:AAGvOmJRA8wmgF4B6FGYny2yBWtgWzU1AGU');
+bot = telebot.TeleBot('');
 
 keyboard = telebot.types.ReplyKeyboardMarkup(True)
 markup = telebot.types.InlineKeyboardMarkup(row_width=3)
