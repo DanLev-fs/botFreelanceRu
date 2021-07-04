@@ -11,7 +11,7 @@ s.headers.update({"Host": "freelance.ru",
 	"Origin": "https://freelance.ru",
 	"Connection": "keep-alive",
 	"Referer": "https://freelance.ru/login/"})
-payload = "login=DanLev&passwd=Trb4dro83&check_ip=on&submit=%C2%F5%EE%E4&auth=auth&return_url=%2F"
+payload = "login=&passwd=&check_ip=on&submit=%C2%F5%EE%E4&auth=auth&return_url=%2F"
 txt = """
                     """
 
